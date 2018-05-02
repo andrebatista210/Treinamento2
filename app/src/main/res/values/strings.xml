@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treinamento2</string>
+    <string name="app_logins">Login</string>
+    <string name="app_cadastro">Cadastro</string>
+    <string name="app_email">Email</string>
+    <string name="app_password">Senha</string>
+</resources>
